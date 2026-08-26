@@ -8,7 +8,7 @@
 <br/>
 
 <!-- 访问计数 -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sxhjlzl.sxhjlzl&left_color=gray&right_color=2F80ED)
+![visitors](https://komarev.com/ghpvc/?username=sxhjlzl&style=flat-square&color=blueviolet&label=Profile+Views)
 
 </div>
 
@@ -32,20 +32,16 @@
 
 ## 📊 GitHub 统计
 
+<!-- 使用可用的社区镜像实例（官方实例常因配额 503/402） -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sxhjlzl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxhjlzl&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
-<!-- 奖杯墙 -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sxhjlzl&theme=radical&column=7&no-frame=true&no-bg=true" />
+  <img width="49%" src="https://github-readme-stats-one-gilt.vercel.app/api?username=sxhjlzl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
+  <img width="42%" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=sxhjlzl&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
 ## 📈 活跃度
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxhjlzl&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph-vert.vercel.app/graph?username=sxhjlzl&theme=github-dark&hide_border=true" />
 </p>
 
 ## 🐍 贡献贪吃蛇
@@ -57,8 +53,8 @@
 
 ## 🚀 我的项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sxhjlzl&repo=mybatis-plus-dynamic-table-starter&theme=github_dark&hide_border=true)](https://github.com/sxhjlzl/mybatis-plus-dynamic-table-starter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sxhjlzl&repo=api-helper&theme=github_dark&hide_border=true)](https://github.com/sxhjlzl/api-helper)
+[![Readme Card](https://github-readme-stats-one-gilt.vercel.app/api/pin/?username=sxhjlzl&repo=mybatis-plus-dynamic-table-starter&theme=github_dark&hide_border=true)](https://github.com/sxhjlzl/mybatis-plus-dynamic-table-starter)
+[![Readme Card](https://github-readme-stats-one-gilt.vercel.app/api/pin/?username=sxhjlzl&repo=api-helper&theme=github_dark&hide_border=true)](https://github.com/sxhjlzl/api-helper)
 
 ---
 

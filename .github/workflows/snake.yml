@@ -1,6 +1,8 @@
 name: Generate Snake
 
 on:
+  # 每次推送后运行（自动提交使用 GITHUB_TOKEN，不会造成循环触发）
+  push:
   schedule:
     # 每天 UTC 0 点（北京时间 8 点）自动生成一次
     - cron: "0 0 * * *"
