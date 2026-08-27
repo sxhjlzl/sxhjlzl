@@ -34,8 +34,8 @@
 
 <!-- 使用可用的社区镜像实例（官方实例常因配额 503/402） -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-one-gilt.vercel.app/api?username=sxhjlzl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
-  <img width="42%" src="https://github-readme-stats-one-gilt.vercel.app/api/top-langs/?username=sxhjlzl&layout=compact&hide_border=true&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats-ten-green.vercel.app/api?username=sxhjlzl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
+  <img width="42%" src="https://github-readme-stats-ten-green.vercel.app/api/top-langs/?username=sxhjlzl&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
 ## 📈 活跃度
@@ -53,8 +53,8 @@
 
 ## 🚀 我的项目
 
-[![Readme Card](https://github-readme-stats-one-gilt.vercel.app/api/pin/?username=sxhjlzl&repo=mybatis-plus-dynamic-table-starter&theme=github_dark&hide_border=true)](https://github.com/sxhjlzl/mybatis-plus-dynamic-table-starter)
-[![Readme Card](https://github-readme-stats-one-gilt.vercel.app/api/pin/?username=sxhjlzl&repo=api-helper&theme=github_dark&hide_border=true)](https://github.com/sxhjlzl/api-helper)
+[![Readme Card](https://github-readme-stats-ten-green.vercel.app/api/pin/?username=sxhjlzl&repo=mybatis-plus-dynamic-table-starter&theme=github_dark&hide_border=true)](https://github.com/sxhjlzl/mybatis-plus-dynamic-table-starter)
+[![Readme Card](https://github-readme-stats-ten-green.vercel.app/api/pin/?username=sxhjlzl&repo=api-helper&theme=github_dark&hide_border=true)](https://github.com/sxhjlzl/api-helper)
 
 ---
 
