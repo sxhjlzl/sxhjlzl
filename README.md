@@ -38,10 +38,11 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,kotlin,rust,swift,ts,spring,mysql,postgres,redis,docker,git,idea,apple&theme=dark&perline=7" />
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,rust,swift,ts,spring,mysql,postgres,redis,docker,git,idea,apple&theme=light&perline=7" alt="Tech Stack" />
-</picture>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,rust,swift,ts,spring,mysql,postgres,redis,docker,git,idea,apple&perline=7" alt="Tech Stack" />
+  </a>
+</p>
 
 <br/><br/>
 
