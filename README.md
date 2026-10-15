@@ -5,7 +5,7 @@
 
 <!-- 打字机效果 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=680&height=45&lines=Code%2C+Create%2C+and+Keep+Learning+%F0%9F%9A%80;Python+%26+Quant+Trading+%7C+Java+%26+Kotlin+%7C+Rust+%26+Swift;Turning+Complex+Problems+into+Reusable+Tools+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=720&height=45&lines=Code%2C+Create%2C+and+Keep+Learning;Python+%26+Quant+%C2%B7+Java+%26+Kotlin+%C2%B7+Rust+%26+Swift;Turning+Complex+Problems+into+Reusable+Tools" alt="Typing SVG" />
 </a>
 
 <br/>
